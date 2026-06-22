@@ -1,4 +1,4 @@
-# Intro to AI Engineering with the Claude API
+# Intro to AI Engineering with Claude API
 
 A live, one-day workshop that takes you from your first API call to building
 tool-using, context-aware AI applications with Anthropic's Claude.
@@ -63,9 +63,10 @@ Learn the levers that shape Claude's output, from persona to output format.
 3. Response streaming
 4. Structured responses
 
-> **Instructor note:** The `temperature` parameter is supported on Claude Sonnet 4.6
-> and Claude Haiku 4.5, but has been removed on the newest models (Opus 4.8/4.7 and
-> Fable 5). Demo temperature on a model that supports it.
+> **Instructor note:** The `temperature` parameter has been removed on the newest
+> models — Opus 4.8/4.7, Fable 5, and Sonnet 4.6 all reject it (sending it returns a
+> 400). Among current models, Claude Haiku 4.5 still supports it, so demo temperature
+> on Haiku 4.5.
 
 ### ☕ Break · 11:15 – 11:30
 
