@@ -63,10 +63,6 @@ Learn the levers that shape Claude's output, from persona to output format.
 3. Response streaming
 4. Structured responses
 
-> **Instructor note:** The `temperature` parameter has been removed on the newest
-> models — Opus 4.8/4.7, Fable 5, and Sonnet 4.6 all reject it (sending it returns a
-> 400). Among current models, Claude Haiku 4.5 still supports it, so demo temperature
-> on Haiku 4.5.
 
 ### ☕ Break · 11:15 – 11:30
 
@@ -77,7 +73,6 @@ Move from ad-hoc prompting to a measurable, repeatable workflow.
 
 1. Building an evaluation pipeline
 2. Prompt engineering techniques
-3. Prompt caching
 
 ---
 
@@ -94,8 +89,8 @@ Ground Claude in your own data so it can answer questions about content it was
 never trained on.
 
 1. The RAG flow
-2. Chunking strategies
-3. Searching strategies
+2. Chunking
+3. Semantic Searching
 
 ### ☕ Break · 3:00 – 3:15
 
