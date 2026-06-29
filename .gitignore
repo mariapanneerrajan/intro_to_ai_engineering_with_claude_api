@@ -1,2 +1,5 @@
 # Environment variables
 .env
+
+# Text edit tool backups
+.backups/
