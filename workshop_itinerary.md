@@ -23,26 +23,26 @@ with tools, and connect it to external systems through the Model Context Protoco
 
 ## Schedule at a Glance
 
-| Time | Session |
+| Time (IST) | Session |
 |------|---------|
-| 9:00 – 10:00 | **Session 1** · Accessing Claude with the API |
-| 10:00 – 10:15 | ☕ Break |
-| 10:15 – 11:15 | **Session 2** · Steering API Responses |
-| 11:15 – 11:30 | ☕ Break |
-| 11:30 – 12:30 | **Session 3** · Prompt Evaluation & Prompt Engineering |
-| 12:30 – 2:00 | 🍽️ Lunch |
-| 2:00 – 3:00 | **Session 4** · Retrieval-Augmented Generation (RAG) |
-| 3:00 – 3:15 | ☕ Break |
-| 3:15 – 4:15 | **Session 5** · Tool Use with Claude |
-| 4:15 – 4:30 | ☕ Break |
-| 4:30 – 5:30 | **Session 6** · Model Context Protocol (MCP) |
+| 9:00 – 10:00 AM | **Session 1** · Accessing Claude with the API |
+| 10:00 – 10:15 AM | ☕ Break |
+| 10:15 – 11:15 AM | **Session 2** · Steering API Responses |
+| 11:15 – 11:30 AM | ☕ Break |
+| 11:30 AM – 12:30 PM | **Session 3** · Prompt Evaluation & Prompt Engineering |
+| 12:30 – 2:00 PM | 🍽️ Lunch |
+| 2:00 – 3:00 PM | **Session 4** · Retrieval-Augmented Generation (RAG) |
+| 3:00 – 3:15 PM | ☕ Break |
+| 3:15 – 4:15 PM | **Session 5** · Tool Use with Claude |
+| 4:15 – 4:30 PM | ☕ Break |
+| 4:30 – 5:30 PM | **Session 6** · Model Context Protocol (MCP) |
 
 ---
 
 ## Morning Sessions
 
 ### Session 1 — Accessing Claude with the API
-**9:00 – 10:00**
+**9:00 – 10:00 AM IST**
 
 Get up and running with the Claude API and understand the fundamentals that
 underpin every interaction with the model.
@@ -51,10 +51,10 @@ underpin every interaction with the model.
 2. The prompt-response cycle
 3. Context windows, tokens, and pricing
 
-### ☕ Break · 10:00 – 10:15
+### ☕ Break · 10:00 – 10:15 AM IST
 
 ### Session 2 — Steering API Responses
-**10:15 – 11:15**
+**10:15 – 11:15 AM IST**
 
 Learn the levers that shape Claude's output, from persona to output format.
 
@@ -64,10 +64,10 @@ Learn the levers that shape Claude's output, from persona to output format.
 4. Structured responses
 
 
-### ☕ Break · 11:15 – 11:30
+### ☕ Break · 11:15 – 11:30 AM IST
 
 ### Session 3 — Prompt Evaluation & Prompt Engineering
-**11:30 – 12:30**
+**11:30 AM – 12:30 PM IST**
 
 Move from ad-hoc prompting to a measurable, repeatable workflow.
 
@@ -76,14 +76,14 @@ Move from ad-hoc prompting to a measurable, repeatable workflow.
 
 ---
 
-## 🍽️ Lunch · 12:30 – 2:00
+## 🍽️ Lunch · 12:30 – 2:00 PM IST
 
 ---
 
 ## Afternoon Sessions
 
 ### Session 4 — Retrieval-Augmented Generation (RAG)
-**2:00 – 3:00**
+**2:00 – 3:00 PM IST**
 
 Ground Claude in your own data so it can answer questions about content it was
 never trained on.
@@ -92,10 +92,10 @@ never trained on.
 2. Chunking
 3. Semantic Searching
 
-### ☕ Break · 3:00 – 3:15
+### ☕ Break · 3:00 – 3:15 PM IST
 
 ### Session 5 — Tool Use with Claude
-**3:15 – 4:15**
+**3:15 – 4:15 PM IST**
 
 Give Claude the ability to take actions and reach beyond its training data.
 
@@ -107,10 +107,10 @@ Give Claude the ability to take actions and reach beyond its training data.
 6. The text editor tool
 7. The web search tool
 
-### ☕ Break · 4:15 – 4:30
+### ☕ Break · 4:15 – 4:30 PM IST
 
 ### Session 6 — Model Context Protocol (MCP)
-**4:30 – 5:30**
+**4:30 – 5:30 PM IST**
 
 Connect Claude to external systems using the open Model Context Protocol.
 
@@ -125,3 +125,26 @@ Connect Claude to external systems using the open Model Context Protocol.
 *This workshop uses the official Anthropic SDKs and the Claude API. We build
 together in a mob coding format — just bring your curiosity and your questions;
 no setup required on your end.*
+
+---
+
+## Logistics & Registration
+
+🗓️ **Dates:** Any Saturday in July (4, 11, 18, or 25)
+⏰ **Time:** 9:00 AM – 5:30 PM IST
+💺 Small, curated groups, so the room stays interactive and every question gets answered
+💰 **Fee:** ₹10,000 INR per seat
+
+📲 To register, message me on WhatsApp at 7358008976. I curate every group personally, so reach out early to hold your Saturday.
+
+---
+
+## About the Instructor
+
+👋 This is Maria Panneer Rajan, a Software Engineer with 17+ years working on
+production technology behind movies such as *The Jungle Book*, *The Lion King*,
+and *Spider-Man: Across the Spider-Verse*. I love empowering software
+professionals to become more valuable in their careers with the tools I research
+and teach.
+
+[linkedin.com/in/mariapanneerrajan](https://www.linkedin.com/in/mariapanneerrajan/)
