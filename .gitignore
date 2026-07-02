@@ -3,3 +3,6 @@
 
 # Text edit tool backups
 .backups/
+
+# Python cache
+__pycache__/
